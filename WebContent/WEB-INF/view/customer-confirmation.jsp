@@ -8,6 +8,8 @@
 
     <body>
         The customer is confirmed : ${customer.firstName}  ${customer.lastName}
+        <br><br>
+        Required Pass : ${customer.freePasses}
     </body>
 
 <html>
